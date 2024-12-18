@@ -52,6 +52,5 @@ title: My Portfolio - [Your Name]
 
 **Customization:**
 
-- The Cayman theme may offer options in its configuration file (`_config.yml`) to control font sizes, colors, and some layout elements. Refer to the theme's documentation for details.
+### The Cayman theme may offer options in its configuration file (`_config.yml`) to control font sizes, colors, and some layout elements. Refer to the theme's documentation for details.
 
-By following these steps, you can create a Readme file for your portfolio using Jekyll theme-Cayman. Although it won't have the same visual layout as a custom HTML/CSS approach, it allows for a well-structured Markdown document that showcases your information and projects.
